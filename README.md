@@ -18,7 +18,7 @@
 , Vue.js
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png?20170919082558" width="15" height="15" alt="Vue.js" /></a>
   - ⚡️  I'm passionate about sports, workout, hardware and music.
-  - 👾  Fan of The Legend of Zelda saga
+  - 👾  Fan of The Legend of Zelda saga and FromSoftware enjoyer.
 
   ### Programming languages
   <p align="left">
