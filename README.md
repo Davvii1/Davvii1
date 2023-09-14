@@ -78,4 +78,11 @@
   <a href="https://github-readme-stats.vercel.app/api?username=Davvii1&show_icons=true&theme=omni&count_private=true&hide_border=true" target="_blank" rel="noreferrer"><img src="https://github-readme-stats.vercel.app/api?username=Davvii1&show_icons=true&theme=omni&count_private=true&hide_border=true"/></a>
   <a href="http://github-readme-streak-stats.herokuapp.com?user=Davvii1&theme=omni&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" target="_blank" rel="noreferrer"><img src="http://github-readme-streak-stats.herokuapp.com?user=Davvii1&theme=omni&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/></a>
 
+  ### In Progress/ Finished Projects
+  <a href="https://loroshop.mx/" target="_blank" rel="noreferrer">Loroshop</a>
+  <a href="https://ecommerce.loschefes.com/" target="_blank" rel="noreferrer">Los Chefes Ecommerce</a>
+  <a href="https://neuro-sketch-front-end.vercel.app/" target="_blank" rel="noreferrer">NeuroSketch</a>
+  <a href="https://bxcarne.com/" target="_blank" rel="noreferrer">BxCarne</a>
+  <a href="https://reclutapp.com.mx/" target="_blank" rel="noreferrer">Reclutapp</a>
+
 </div>
