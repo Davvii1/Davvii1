@@ -13,12 +13,8 @@
 
   - 🌍  I'm based in Monterrey, Nuevo León
   - ✉️  You can contact me at [david2002rg@hotmail.com](mailto:david2002rg@hotmail.com)
-  - 🧠  I'm learning Laravel
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://pbs.twimg.com/profile_images/1163911054788833282/AcA2LnWL_400x400.jpg" width="15" height="15" alt="Laravel" /></a>
-, Vue.js
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png?20170919082558" width="15" height="15" alt="Vue.js" /></a>
-  - ⚡️  I'm passionate about sports, workout, hardware and music.
-  - 👾  Fan of The Legend of Zelda saga and FromSoftware enjoyer.
+  - ⚡️  Passionate about sports, workout, hardware and music.
+  - 👾  FromSoftware enjoyer.
 
   ### Programming languages
   <p align="left">
