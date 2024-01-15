@@ -74,7 +74,7 @@
   <a href="https://discord.com/users/Davvii#0542" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 
   ### Badges
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Davvii1&layout=compact&theme=omni&hide_border=true" target="_blank" rel="noreferrer"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davvii1&layout=compact&theme=omni&hide_border=true"/></a>
+  <!-- <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Davvii1&layout=compact&theme=omni&hide_border=true" target="_blank" rel="noreferrer"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davvii1&layout=compact&theme=omni&hide_border=true"/></a> -->
   <a href="https://github-readme-stats.vercel.app/api?username=Davvii1&show_icons=true&theme=omni&count_private=true&hide_border=true" target="_blank" rel="noreferrer"><img src="https://github-readme-stats.vercel.app/api?username=Davvii1&show_icons=true&theme=omni&count_private=true&hide_border=true"/></a>
   <a href="http://github-readme-streak-stats.herokuapp.com?user=Davvii1&theme=omni&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" target="_blank" rel="noreferrer"><img src="http://github-readme-streak-stats.herokuapp.com?user=Davvii1&theme=omni&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/></a>
 
