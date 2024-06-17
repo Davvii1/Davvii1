@@ -1,6 +1,6 @@
 <div class="content">
   <div class="top-div" align="center">
-  <img class="top-gif" src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="100" height="100"/>
+  <img class="top-gif" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmJ4dWxjNmhkb3JrZXBtankwaHgyYm05dnVxZnl3YXMyMmJ0NmJvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CcwLAV11cALh3OuEJ5/giphy.gif" width="100" height="100"/>
 
   <h1 align="center">Hi ✌️, I'm David Rodríguez</h1>
 
