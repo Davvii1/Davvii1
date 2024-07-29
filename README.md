@@ -4,7 +4,7 @@
 
   <h1 align="center">Hi ✌️, I'm David Rodríguez</h1>
 
-  <h2 align="center">Software Engineer Student</h2>
+  <h2 align="center">Software Engineer</h2>
   </div>
 
   ![](https://komarev.com/ghpvc/?username=Davvii1&color=blueviolet)
